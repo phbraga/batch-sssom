@@ -23,13 +23,13 @@ Please cite our paper if you use this code in your own work:
 
 1. Libs:
 
-  Python 3.6+
-  CUDA 10.0+
-  Pytorch 1.3.1+
-  Pandas
-  Scipy
-  NumPy
-  Scikit-Learn
+        Python 3.6+
+        CUDA 10.0+
+        Pytorch 1.3.1+
+        Pandas
+        Scipy
+        NumPy
+        Scikit-Learn
 
 2. A file containing all the paths to the datasets you want to use. Please refer to [this](https://github.com/hfbassani/pbml/blob/master/phmb4/Parameters/inputPathsTrain) example.
 
